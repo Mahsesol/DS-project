@@ -1,0 +1,43 @@
+[2025-12-18 15:47:02] Products loaded
+[2025-12-18 15:48:22] Products loaded
+[2025-12-18 15:49:19] Viewed product: ID=3
+[2025-12-18 15:49:19] Recommendations generated for product ID=3
+[2025-12-18 15:49:19] Product added to history: ID=3
+[2025-12-18 16:02:53] Products loaded
+[2025-12-18 16:03:09] Viewed product: ID=4
+[2025-12-18 16:03:09] Recommendations generated for product ID=4
+[2025-12-18 16:03:09] Product added to history: ID=4
+[2025-12-18 16:03:14] Product added to cart: ID=4
+[2025-12-18 16:03:14] Product added to cart from details: ID=4
+[2025-12-18 16:03:51] Search by category: Home
+[2025-12-18 16:04:15] Search lowest 1/3 prices
+[2025-12-18 16:04:47] Sorted by price
+[2025-12-18 16:10:37] Products loaded
+[2025-12-18 16:10:50] Viewed product: ID=12
+[2025-12-18 16:10:50] Recommendations generated for product ID=12
+[2025-12-18 16:10:50] Product added to history: ID=12
+[2025-12-18 16:11:00] Product added to cart: ID=12
+[2025-12-18 16:11:00] Product added to cart from details: ID=12
+[2025-12-18 16:13:52] Products loaded
+[2025-12-18 16:13:59] Viewed product: ID=32
+[2025-12-18 16:13:59] Recommendations generated for product ID=32
+[2025-12-18 16:13:59] Product added to history: ID=32
+[2025-12-18 16:14:02] Product added to cart: ID=32
+[2025-12-18 16:14:02] Product added to cart from details: ID=32
+[2025-12-18 16:20:48] Products loaded
+[2025-12-18 16:20:57] Viewed product: ID=42
+[2025-12-18 16:20:57] Recommendations generated for product ID=42
+[2025-12-18 16:20:57] Product added to history: ID=42
+[2025-12-18 16:21:05] Product added to cart: ID=42
+[2025-12-18 16:21:05] Product added to cart from details: ID=42
+[2025-12-18 16:31:52] Products loaded
+[2025-12-18 16:32:51] Product added: 61
+[2025-12-18 16:33:15] Product removed: 61
+[2025-12-20 18:52:43] Products loaded
+[2025-12-20 18:53:10] User searched by ID: 12, found product
+[2025-12-20 18:53:10] Product added to history: ID=12
+[2025-12-20 18:53:15] Product added to cart: ID=12
+[2025-12-20 18:53:15] Product added to cart from search: ID=12
+[2025-12-20 19:03:08] Products loaded
+[2025-12-20 19:03:45] Product added: 61
+[2025-12-20 19:04:11] Product removed: 61
