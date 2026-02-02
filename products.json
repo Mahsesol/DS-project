@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop ASUS VivoBook 15",
+    "price": 32000,
+    "category": "Digital",
+    "rating": 4.5,
+    "sales": 120
+  },
+  {
+    "id": 2,
+    "name": "MacBook Air M1",
+    "price": 58000,
+    "category": "Digital",
+    "rating": 4.9,
+    "sales": 410
+  },
+  {
+    "id": 3,
+    "name": "iPhone 13",
+    "price": 55000,
+    "category": "Digital",
+    "rating": 4.8,
+    "sales": 540
+  },
+  {
+    "id": 4,
+    "name": "Samsung Galaxy S22",
+    "price": 48000,
+    "category": "Digital",
+    "rating": 4.6,
+    "sales": 430
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi Redmi Note 12",
+    "price": 21000,
+    "category": "Digital",
+    "rating": 4.3,
+    "sales": 610
+  },
+  {
+    "id": 6,
+    "name": "Sony WH-1000XM5 Headphones",
+    "price": 18000,
+    "category": "Digital",
+    "rating": 4.9,
+    "sales": 300
+  },
+  {
+    "id": 7,
+    "name": "Apple Watch Series 8",
+    "price": 24000,
+    "category": "Digital",
+    "rating": 4.7,
+    "sales": 260
+  },
+  {
+    "id": 8,
+    "name": "Logitech MX Master 3 Mouse",
+    "price": 4200,
+    "category": "Digital",
+    "rating": 4.8,
+    "sales": 390
+  },
+  {
+    "id": 9,
+    "name": "Samsung 27-inch Monitor",
+    "price": 19500,
+    "category": "Digital",
+    "rating": 4.4,
+    "sales": 150
+  },
+  {
+    "id": 10,
+    "name": "External SSD Samsung T7",
+    "price": 7800,
+    "category": "Digital",
+    "rating": 4.6,
+    "sales": 340
+  },
+  {
+    "id": 11,
+    "name": "Men Cotton T-Shirt",
+    "price": 450,
+    "category": "Clothing",
+    "rating": 4.1,
+    "sales": 900
+  },
+  {
+    "id": 12,
+    "name": "Women Summer Dress",
+    "price": 1200,
+    "category": "Clothing",
+    "rating": 4.4,
+    "sales": 650
+  },
+  {
+    "id": 13,
+    "name": "Nike Running Shoes",
+    "price": 3800,
+    "category": "Clothing",
+    "rating": 4.7,
+    "sales": 500
+  },
+  {
+    "id": 14,
+    "name": "Leather Jacket Men",
+    "price": 9500,
+    "category": "Clothing",
+    "rating": 4.6,
+    "sales": 210
+  },
+  {
+    "id": 15,
+    "name": "Adidas Hoodie",
+    "price": 4200,
+    "category": "Clothing",
+    "rating": 4.5,
+    "sales": 330
+  },
+  {
+    "id": 16,
+    "name": "Women Jeans Slim Fit",
+    "price": 2100,
+    "category": "Clothing",
+    "rating": 4.3,
+    "sales": 470
+  },
+  {
+    "id": 17,
+    "name": "Formal Shirt Men",
+    "price": 1700,
+    "category": "Clothing",
+    "rating": 4.2,
+    "sales": 390
+  },
+  {
+    "id": 18,
+    "name": "Winter Coat Women",
+    "price": 7800,
+    "category": "Clothing",
+    "rating": 4.6,
+    "sales": 180
+  },
+  {
+    "id": 19,
+    "name": "Sport Socks Pack",
+    "price": 320,
+    "category": "Clothing",
+    "rating": 4.0,
+    "sales": 820
+  },
+  {
+    "id": 20,
+    "name": "Baseball Cap",
+    "price": 540,
+    "category": "Clothing",
+    "rating": 4.1,
+    "sales": 610
+  },
+  {
+    "id": 21,
+    "name": "Dining Table 6 Chairs",
+    "price": 27000,
+    "category": "Home",
+    "rating": 4.2,
+    "sales": 75
+  },
+  {
+    "id": 22,
+    "name": "Ergonomic Office Chair",
+    "price": 8500,
+    "category": "Home",
+    "rating": 4.6,
+    "sales": 290
+  },
+  {
+    "id": 23,
+    "name": "LED TV 55 inch LG",
+    "price": 42000,
+    "category": "Home",
+    "rating": 4.7,
+    "sales": 180
+  },
+  {
+    "id": 24,
+    "name": "Vacuum Cleaner Philips",
+    "price": 6700,
+    "category": "Home",
+    "rating": 4.4,
+    "sales": 340
+  },
+  {
+    "id": 25,
+    "name": "Microwave Oven Samsung",
+    "price": 9800,
+    "category": "Home",
+    "rating": 4.5,
+    "sales": 260
+  },
+  {
+    "id": 26,
+    "name": "Air Fryer Philips",
+    "price": 7600,
+    "category": "Home",
+    "rating": 4.6,
+    "sales": 310
+  },
+  {
+    "id": 27,
+    "name": "Electric Kettle Bosch",
+    "price": 2300,
+    "category": "Home",
+    "rating": 4.3,
+    "sales": 410
+  },
+  {
+    "id": 28,
+    "name": "Coffee Maker Delonghi",
+    "price": 12500,
+    "category": "Home",
+    "rating": 4.8,
+    "sales": 140
+  },
+  {
+    "id": 29,
+    "name": "Standing Lamp Modern",
+    "price": 3100,
+    "category": "Home",
+    "rating": 4.2,
+    "sales": 220
+  },
+  {
+    "id": 30,
+    "name": "Wall Clock Minimal",
+    "price": 890,
+    "category": "Home",
+    "rating": 4.1,
+    "sales": 500
+  },
+  {
+    "id": 31,
+    "name": "Clean Code",
+    "price": 900,
+    "category": "Book",
+    "rating": 4.9,
+    "sales": 1200
+  },
+  {
+    "id": 32,
+    "name": "Introduction to Algorithms",
+    "price": 3200,
+    "category": "Book",
+    "rating": 4.8,
+    "sales": 980
+  },
+  {
+    "id": 33,
+    "name": "Python Crash Course",
+    "price": 1100,
+    "category": "Book",
+    "rating": 4.7,
+    "sales": 860
+  },
+  {
+    "id": 34,
+    "name": "Artificial Intelligence Basics",
+    "price": 1500,
+    "category": "Book",
+    "rating": 4.4,
+    "sales": 400
+  },
+  {
+    "id": 35,
+    "name": "Data Structures in C++",
+    "price": 1800,
+    "category": "Book",
+    "rating": 4.6,
+    "sales": 560
+  },
+  {
+    "id": 36,
+    "name": "Design Patterns",
+    "price": 2100,
+    "category": "Book",
+    "rating": 4.7,
+    "sales": 490
+  },
+  {
+    "id": 37,
+    "name": "Operating System Concepts",
+    "price": 2600,
+    "category": "Book",
+    "rating": 4.5,
+    "sales": 370
+  },
+  {
+    "id": 38,
+    "name": "Computer Networks",
+    "price": 2400,
+    "category": "Book",
+    "rating": 4.6,
+    "sales": 420
+  },
+  {
+    "id": 39,
+    "name": "Database System Concepts",
+    "price": 2300,
+    "category": "Book",
+    "rating": 4.5,
+    "sales": 460
+  },
+  {
+    "id": 40,
+    "name": "Discrete Mathematics",
+    "price": 1900,
+    "category": "Book",
+    "rating": 4.3,
+    "sales": 520
+  },
+  {
+    "id": 41,
+    "name": "Bluetooth Speaker JBL",
+    "price": 3600,
+    "category": "Digital",
+    "rating": 4.5,
+    "sales": 410
+  },
+  {
+    "id": 42,
+    "name": "Power Bank Xiaomi 20000",
+    "price": 2100,
+    "category": "Digital",
+    "rating": 4.6,
+    "sales": 670
+  },
+  {
+    "id": 43,
+    "name": "Wireless Charger Samsung",
+    "price": 1800,
+    "category": "Digital",
+    "rating": 4.4,
+    "sales": 290
+  },
+  {
+    "id": 44,
+    "name": "USB-C Hub Anker",
+    "price": 2900,
+    "category": "Digital",
+    "rating": 4.7,
+    "sales": 350
+  },
+  {
+    "id": 45,
+    "name": "Mechanical Keyboard Redragon",
+    "price": 5200,
+    "category": "Digital",
+    "rating": 4.6,
+    "sales": 260
+  },
+  {
+    "id": 46,
+    "name": "Bed Sheet Cotton Double",
+    "price": 1900,
+    "category": "Home",
+    "rating": 4.3,
+    "sales": 410
+  },
+  {
+    "id": 47,
+    "name": "Pillow Memory Foam",
+    "price": 2400,
+    "category": "Home",
+    "rating": 4.5,
+    "sales": 360
+  },
+  {
+    "id": 48,
+    "name": "Curtain Blackout",
+    "price": 3300,
+    "category": "Home",
+    "rating": 4.4,
+    "sales": 280
+  },
+  {
+    "id": 49,
+    "name": "Carpet Modern Design",
+    "price": 8700,
+    "category": "Home",
+    "rating": 4.6,
+    "sales": 190
+  },
+  {
+    "id": 50,
+    "name": "Laundry Basket Plastic",
+    "price": 780,
+    "category": "Home",
+    "rating": 4.0,
+    "sales": 540
+  },
+  {
+    "id": 51,
+    "name": "Men Leather Belt",
+    "price": 850,
+    "category": "Clothing",
+    "rating": 4.2,
+    "sales": 430
+  },
+  {
+    "id": 52,
+    "name": "Women Handbag",
+    "price": 4200,
+    "category": "Clothing",
+    "rating": 4.6,
+    "sales": 310
+  },
+  {
+    "id": 53,
+    "name": "Sunglasses UV Protection",
+    "price": 1600,
+    "category": "Clothing",
+    "rating": 4.4,
+    "sales": 390
+  },
+  {
+    "id": 54,
+    "name": "Sports Jacket Men",
+    "price": 6900,
+    "category": "Clothing",
+    "rating": 4.5,
+    "sales": 250
+  },
+  {
+    "id": 55,
+    "name": "Women Scarf Silk",
+    "price": 1100,
+    "category": "Clothing",
+    "rating": 4.3,
+    "sales": 460
+  },
+  {
+    "id": 56,
+    "name": "Notebook A4 100 Pages",
+    "price": 180,
+    "category": "Book",
+    "rating": 4.1,
+    "sales": 950
+  },
+  {
+    "id": 57,
+    "name": "Ballpoint Pen Pack",
+    "price": 120,
+    "category": "Book",
+    "rating": 4.0,
+    "sales": 1200
+  },
+  {
+    "id": 58,
+    "name": "Highlighter Set",
+    "price": 260,
+    "category": "Book",
+    "rating": 4.2,
+    "sales": 680
+  },
+  {
+    "id": 59,
+    "name": "Office File Folder",
+    "price": 340,
+    "category": "Book",
+    "rating": 4.1,
+    "sales": 540
+  },
+  {
+    "id": 60,
+    "name": "Desk Organizer",
+    "price": 890,
+    "category": "Book",
+    "rating": 4.3,
+    "sales": 410
+  }
+]
