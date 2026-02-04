@@ -41,12 +41,18 @@ def search_by_name(product_list, keyword, history=None, cart=None):
         if keyword.lower() in current.product.name.lower():
             results.append(current.product)
         current = current.next
-
+    product = results[0]
+    print("\n===== Product Details =====")
+    print(f"ID: {product.id}")
+    print(f"Name: {product.name}")
+    print(f"Category: {product.category}")
+    print(f"Price: {product.price}")
+    print(f"Rating: ⭐ {product.rating}")
+    print(f"Sales: {product.sales}")
     log(f"User searched by name: {keyword}, found {len(results)} products")
 
-    # اگر محصول پیدا شد، آخرین محصول را به تاریخچه اضافه کن و از کاربر بپرس برای اضافه به سبد خرید
     if results and history is not None:
-        last_product = results[0]  # می‌تونیم اولین محصول پیدا شده رو استفاده کنیم
+        last_product = results[0] 
         history.add_product(last_product)
         if cart is not None:
             choice = input(f"Do you want to add '{last_product.name}' to cart? (y/n): ").lower()
@@ -106,6 +112,14 @@ def search_by_id(product_list, pid, history=None, cart=None):
     while current:
         if current.product.id == pid:
             product = current.product
+             
+            print("\n===== Product Details =====")
+            print(f"ID: {product.id}")
+            print(f"Name: {product.name}")
+            print(f"Category: {product.category}")
+            print(f"Price: {product.price}")
+            print(f"Rating: ⭐ {product.rating}")
+            print(f"Sales: {product.sales}")
             log(f"User searched by ID: {pid}, found product")
             if history is not None:
                 history.add_product(product)
